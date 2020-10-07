@@ -18,7 +18,7 @@
      <h3>前方高能预警，非战斗成员请撤离（笑</h3>
      <img scr="LIU.jpg">
      <p>在开学前准备和开学后这一个多月的时间里，也有用拍照的形式留下一些迷人的景致</p>
-     <img scr="001.jpg">
+     <img scr="https://github.com/RememberLXY/002.github.io/blob/gh-pages/001.jpg">
      <img scr="1.jpg">  
      <img scr="2.jpg">
      <img scr="3.jpg">
